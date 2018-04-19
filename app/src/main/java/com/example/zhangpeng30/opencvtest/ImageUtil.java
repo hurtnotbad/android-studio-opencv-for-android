@@ -8,7 +8,7 @@ import org.opencv.core.Size;
 import org.opencv.imgproc.Imgproc;
 
 /**
- * Created by zhangpeng30 on 2017/11/27.
+ * Created by lammy on 2017/11/27.
  */
 
 public class ImageUtil {
